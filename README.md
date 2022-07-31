@@ -1,3 +1,13 @@
+<h1>Event Registration and Search System</h1>
+
+<h2>Technologies used:</h2>
+
+<p>- PHP</p>
+<p>- JavaScript</p>
+<p>- Json</p>
+<p>- Laravel</p>
+<p>- Bootstrap</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
